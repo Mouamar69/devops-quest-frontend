@@ -46,4 +46,4 @@ pnpm dev
 
 ## 👤 Auteur
 
-**Rick Noutat**
+**Mouamar ADJAHO**
